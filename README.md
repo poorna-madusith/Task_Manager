@@ -11,6 +11,23 @@ A full-stack task management application built with Spring Boot backend and Angu
 - Persistent storage using MySQL database
 - Responsive design for mobile and desktop
 
+## Screenshots
+
+### Task List View
+
+![Task List View](screenshots/task-list.png)
+_Main dashboard showing all tasks with their status_
+
+### Add New Task
+
+![Add New Task](screenshots/add-task.png)
+_Modal form for creating a new task_
+
+### Edit Task
+
+![Edit Task](screenshots/edit-task.png)
+_Editing an existing task with current details_
+
 ## Tech Stack
 
 ### Backend
